@@ -11,4 +11,4 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-这里是 **华中农业大学资环学院土壤微生物研究小组**。
+这里是 **华中农业大学合成微生物研究小组**。
